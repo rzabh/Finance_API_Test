@@ -8,5 +8,4 @@ The data is gathered through SEC EDGAR API
 
 ![Image](https://github.com/user-attachments/assets/db192119-056e-45d3-bb42-941bca235670)
 
-
-Dislaimer: This idea is not a financial advice.
+This idea is not a financial advice.
