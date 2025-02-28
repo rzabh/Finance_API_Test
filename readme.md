@@ -2,7 +2,7 @@ This is Part of My part of my idea for an app focused on financial information. 
 
 Problem: There are times that the amount of outstanding shares are not updated for example on the google or other  platforms with respect to latest filining 8K or 10Q or 10K.
 
-This function navigates throught these SEC filings to look for latest warrants issued or stock purchases by the company and ignore unrelavant informations. 
+This function navigates throught these SEC filings to look for latest warrants issued or stock purchases by the company and ignore irrelevant informations. 
 
 The data is gathered through SEC EDGAR API
 
